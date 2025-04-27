@@ -6,7 +6,7 @@
 - React.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS, Firebase, Laravel, PHP, Python, .net, Go
 
 ## Languages & Tools
-
+ 
 <table>
   <tr>
     <th><h3 align="center">Frontend</h3></th>
