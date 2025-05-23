@@ -6,15 +6,20 @@
 -Skills
 Front-End: React, React Native, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, 
 Responsive & Adaptive UI
+
 Back-End: Node.js, Express.js, Python, RESTful APIs, GraphQL, GoLang
+
 Mobile Development: iOS, Android, React Native, Mobile-First Principles
-Cloud & DevOps: AWS (Lambda, EC2, S3, RDS, API Gateway), GCP, Azure, Docker, 
-Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+
+Cloud & DevOps: AWS (Lambda, EC2, S3, RDS, API Gateway), GCP, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+
 Databases: PostgreSQL, MongoDB, MySQL, Redis, DynamoDB
+
 Testing & QA: Jest, Mocha, Cypress, Selenium, Postman, Unit & Integration Testing, TDD
+
 Agile Practices: Scrum, Kanban, Jira, Confluence, Code Reviews, Mentorship
-Soft Skills: Leadership, Cross-Functional Collaboration, Technical Mentoring, Client 
-Engagement, Problem Solving
+
+Soft Skills: Leadership, Cross-Functional Collaboration, Technical Mentoring, Client Engagement, Problem Solving
 
 ## Languages & Tools
  
