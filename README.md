@@ -3,7 +3,18 @@
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- Java, React.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS, Firebase, Laravel, PHP, Python, .net, Go
+-Skills
+Front-End: React, React Native, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, 
+Responsive & Adaptive UI
+Back-End: Node.js, Express.js, Python, RESTful APIs, GraphQL, GoLang
+Mobile Development: iOS, Android, React Native, Mobile-First Principles
+Cloud & DevOps: AWS (Lambda, EC2, S3, RDS, API Gateway), GCP, Azure, Docker, 
+Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+Databases: PostgreSQL, MongoDB, MySQL, Redis, DynamoDB
+Testing & QA: Jest, Mocha, Cypress, Selenium, Postman, Unit & Integration Testing, TDD
+Agile Practices: Scrum, Kanban, Jira, Confluence, Code Reviews, Mentorship
+Soft Skills: Leadership, Cross-Functional Collaboration, Technical Mentoring, Client 
+Engagement, Problem Solving
 
 ## Languages & Tools
  
