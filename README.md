@@ -3,9 +3,7 @@
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
--Skills
-Front-End: React, React Native, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, 
-Responsive & Adaptive UI
+Front-End: React, React Native, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, Responsive & Adaptive UI
 
 Back-End: Node.js, Express.js, Python, RESTful APIs, GraphQL, GoLang
 
